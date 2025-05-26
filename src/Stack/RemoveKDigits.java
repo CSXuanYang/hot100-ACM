@@ -10,7 +10,6 @@ import java.util.*;
  * 4. 最后如果还剩下 k 没删除完，就从栈顶继续弹出；
  * 5. 最后把栈转成字符串，并去掉前导 0。
  */
-/
 
 public class RemoveKDigits {
     public static String removeKdigits(String num, int k) {
